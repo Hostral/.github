@@ -13,3 +13,4 @@ At Hostral, we are passionate about providing high-quality hosting solutions whi
 
 Join us in our journey towards sustainable hosting solutions powered by green energy!
 
+Established 2022
