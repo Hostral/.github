@@ -6,6 +6,11 @@ Welcome to the official GitHub organization for Hostral! We specialize in server
 
 At Hostral, we are passionate about providing high-quality hosting solutions while minimizing our environmental impact. Our mission is to deliver reliable and efficient server hosting and game hosting services powered by renewable and sustainable energy sources.
 
+## Contact
+
+For any inquiries, suggestions, or collaboration opportunities, please reach out to us at [hostral.online@gmail.com](mailto:hostral.online@gmail.com).
+
+
 ## Connect with Us
 
 - Website: [https://www.hostral.online](https://www.hostral.online)
